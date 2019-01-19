@@ -1,3 +1,10 @@
+Fork这条git,主要为了实现地区三级联动;
+结合 https://blog.csdn.net/oulihong123/article/details/58327247  这个三级联动的效果图
+
+上边地址所需要的地区数据 处理方式 参考这个： https://blog.csdn.net/DWL0208/article/details/82716112
+
+================================================================================
+
 # reports
 自定义配置报表/ssm
 
